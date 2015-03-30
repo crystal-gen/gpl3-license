@@ -1,0 +1,9 @@
+name: gpl3-license-test
+version: 0.1.0
+description: gpl3-license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  gpl3-license:
+    version: latest
